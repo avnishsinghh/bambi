@@ -1,3 +1,6 @@
+
+  Updated image labels
+
   [0.18.0]
   Updated to handle NanoSeq
   Removed the dependency on samtools from the unit tests
